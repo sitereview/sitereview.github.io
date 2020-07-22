@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title></title>
+		<title>Tabelle Responsive</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		
 		<link rel="stylesheet" type="text/css" href="https://sitereview.github.io/style.css">
